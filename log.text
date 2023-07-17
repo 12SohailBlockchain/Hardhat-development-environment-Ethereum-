@@ -1,0 +1,40 @@
+PS C:\Users\DELL\Desktop\Dapp project\Hardhat Local Blockchain\scripts> npx hardhat run deploy.js --network localhost
+Compiling 1 file with 0.8.0
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> contracts/Smart.sol
+
+
+Error HH700: Artifact for contract "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol:ERC721Burnable" not found. 
+For more info go to https://hardhat.org/HH700 or run Hardhat with --show-stack-traces
+PS C:\Users\DELL\Desktop\Dapp project\Hardhat Local Blockchain\scripts> npx hardhat run deploy.js --network localhost
+Compiling 2 files with 0.8.0
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> contracts/Smart.sol
+
+
+Warning: Source file does not specify required compiler version! Consider adding "pragma solidity ^0.8.0;"
+
+
+Error HH700: Artifact for contract "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol:ERC721Burnable" not found. 
+
+For more info go to https://hardhat.org/HH700 or run Hardhat with --show-stack-traces
+PS C:\Users\DELL\Desktop\Dapp project\Hardhat Local Blockchain\scripts> npx hardhat run deploy.js --network localhost
+Compiling 1 file with 0.8.0
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> contracts/Smart.sol
+
+
+Error HH700: Artifact for contract "@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol:ERC721Burnable" not found. 
+
+For more info go to https://hardhat.org/HH700 or run Hardhat with --show-stack-traces
+PS C:\Users\DELL\Desktop\Dapp project\Hardhat Local Blockchain\scripts> npx hardhat run deploy.js --network localhost
+PS C:\Users\DELL\Desktop\Dapp project\Hardhat Local Blockchain\scripts> npx hardhat run deploy.js --network localhost
+PS C:\Users\DELL\Desktop\Dapp project\Hardhat Local Blockchain\scripts> npx hardhat run deploy.js --network localhost
+Compiling 1 file with 0.8.0
+Warning: SPDX license identifier not provided in source file. Before publishing, consider adding a comment containing "SPDX-License-Identifier: <SPDX-License>" to each source file. Use "SPDX-License-Identifier: UNLICENSED" for non-open-source code. Please see https://spdx.org for more information.
+--> contracts/Smart.sol
+
+
+Compilation finished successfully
+Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+Contract address: 0x5FbDB2315678afecb367f032d93F642f64180aa3
